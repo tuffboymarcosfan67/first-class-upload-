@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+	font-family: "Time New Roman", Times, serif;
+	font-size: 12pt;
+	color: #800000;
+	text-align: center;
+}
+
+h1 {
+	background-color: red;
+	font-size: 32pt;
+	color: purple;
+	padding: 5px 10px;
+	margin: 20px auto;
+	text-align: center;
+}
+h2 {
+
+	text-align: right;
+background-color: #800000
+color: red;
+}
